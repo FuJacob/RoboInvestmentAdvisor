@@ -1,5 +1,7 @@
-# Robo Portfolio Advisor
 
+<div align="center"> <img src="https://github.com/FuJacob/RoboInvestmentAdvisor/blob/main/robo.png?raw=true" /> </div>
+
+# Robo Portfolio Advisor
 The **Robo Portfolio Advisor** is a Python-based application that generates optimized stock portfolios, developed for the 2024 CFM 101 Team Competition. The challenge was to create a portfolio-generation algorithm capable of adapting to unknown stock baskets, showcasing skills in finance, computer science, and problem-solving.
 
 ## Key Features
